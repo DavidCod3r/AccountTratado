@@ -1,0 +1,13 @@
+C:\Users\me\source\repos\BancoExce\BancoExce\bin\Debug\netcoreapp3.1\BancoExce.exe
+C:\Users\me\source\repos\BancoExce\BancoExce\bin\Debug\netcoreapp3.1\BancoExce.deps.json
+C:\Users\me\source\repos\BancoExce\BancoExce\bin\Debug\netcoreapp3.1\BancoExce.runtimeconfig.json
+C:\Users\me\source\repos\BancoExce\BancoExce\bin\Debug\netcoreapp3.1\BancoExce.runtimeconfig.dev.json
+C:\Users\me\source\repos\BancoExce\BancoExce\bin\Debug\netcoreapp3.1\BancoExce.dll
+C:\Users\me\source\repos\BancoExce\BancoExce\bin\Debug\netcoreapp3.1\BancoExce.pdb
+C:\Users\me\source\repos\BancoExce\BancoExce\obj\Debug\netcoreapp3.1\BancoExce.csprojAssemblyReference.cache
+C:\Users\me\source\repos\BancoExce\BancoExce\obj\Debug\netcoreapp3.1\BancoExce.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\BancoExce\BancoExce\obj\Debug\netcoreapp3.1\BancoExce.AssemblyInfo.cs
+C:\Users\me\source\repos\BancoExce\BancoExce\obj\Debug\netcoreapp3.1\BancoExce.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\BancoExce\BancoExce\obj\Debug\netcoreapp3.1\BancoExce.dll
+C:\Users\me\source\repos\BancoExce\BancoExce\obj\Debug\netcoreapp3.1\BancoExce.pdb
+C:\Users\me\source\repos\BancoExce\BancoExce\obj\Debug\netcoreapp3.1\BancoExce.genruntimeconfig.cache
